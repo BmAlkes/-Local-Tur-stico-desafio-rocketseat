@@ -43,7 +43,8 @@ A página destaca a cidade de Busan, um destino turístico incrível da Coreia d
 
 ## 📸 Screenshot do Projeto
 
-![Screenshot](./caminho/para/imagem.png)  
+![Screenshot]
+<img src="https://res.cloudinary.com/landingpage2/image/upload/v1735574730/Screenshot_19_vjdapr.png"/>
 _A página foi projetada para ser visualmente atrativa e funcional._
 
 ---
